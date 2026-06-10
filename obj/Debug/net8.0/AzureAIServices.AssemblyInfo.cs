@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureAIServices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a2a19d3c91b1a51bb2e77f387fa3f2bf0bc448a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureAIServices")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureAIServices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
