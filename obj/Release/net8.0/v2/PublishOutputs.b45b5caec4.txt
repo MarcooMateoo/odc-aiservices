@@ -1,0 +1,12 @@
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\bin\release\net8.0\v2\publish\AzureAIServices.dll
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\bin\release\net8.0\v2\publish\AzureAIServices.deps.json
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\bin\release\net8.0\v2\publish\AzureAIServices.pdb
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\bin\release\net8.0\v2\publish\Azure.AI.DocumentIntelligence.dll
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\bin\release\net8.0\v2\publish\Azure.AI.OpenAI.dll
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\bin\release\net8.0\v2\publish\Azure.AI.Translation.Text.dll
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\bin\release\net8.0\v2\publish\Azure.Core.dll
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\bin\release\net8.0\v2\publish\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\bin\release\net8.0\v2\publish\OpenAI.dll
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\bin\release\net8.0\v2\publish\OutSystems.ExternalLibraries.SDK.dll
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\bin\release\net8.0\v2\publish\System.ClientModel.dll
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\bin\release\net8.0\v2\publish\System.Memory.Data.dll

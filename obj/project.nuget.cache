@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "BwuUkpoPVlY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\AzureAIServices\\AzureAIServices\\AzureAIServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\azure.ai.documentintelligence\\1.0.0\\azure.ai.documentintelligence.1.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\azure.ai.openai\\2.1.0\\azure.ai.openai.2.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\azure.ai.translation.text\\1.0.0\\azure.ai.translation.text.1.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.3\\microsoft.extensions.configuration.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.3\\microsoft.extensions.dependencyinjection.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\10.0.3\\microsoft.extensions.diagnostics.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.3\\microsoft.extensions.fileproviders.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\10.0.3\\microsoft.extensions.hosting.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.3\\microsoft.extensions.logging.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.options\\10.0.3\\microsoft.extensions.options.10.0.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.3\\microsoft.extensions.primitives.10.0.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\openai\\2.10.0\\openai.2.10.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\outsystems.externallibraries.sdk\\1.5.0\\outsystems.externallibraries.sdk.1.5.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.clientmodel\\1.10.0\\system.clientmodel.1.10.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.3\\system.diagnostics.diagnosticsource.10.0.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.io.pipelines\\10.0.3\\system.io.pipelines.10.0.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.memory.data\\10.0.3\\system.memory.data.10.0.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.net.serversentevents\\10.0.2\\system.net.serversentevents.10.0.2.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.text.encodings.web\\10.0.3\\system.text.encodings.web.10.0.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.text.json\\10.0.3\\system.text.json.10.0.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

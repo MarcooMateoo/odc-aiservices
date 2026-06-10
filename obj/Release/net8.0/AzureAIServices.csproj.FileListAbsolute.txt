@@ -1,0 +1,12 @@
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\obj\Release\net8.0\AzureAIServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\obj\Release\net8.0\AzureAIServices.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\obj\Release\net8.0\AzureAIServices.AssemblyInfo.cs
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\obj\Release\net8.0\AzureAIServices.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\bin\Release\net8.0\AzureAIServices.deps.json
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\bin\Release\net8.0\AzureAIServices.dll
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\bin\Release\net8.0\AzureAIServices.pdb
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\obj\Release\net8.0\AzureAIServices.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\obj\Release\net8.0\AzureAIServices.dll
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\obj\Release\net8.0\refint\AzureAIServices.dll
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\obj\Release\net8.0\AzureAIServices.pdb
+C:\Users\marco\source\repos\AzureAIServices\AzureAIServices\obj\Release\net8.0\ref\AzureAIServices.dll

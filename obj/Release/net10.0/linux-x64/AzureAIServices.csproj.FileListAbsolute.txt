@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\AzureAIServices\AzureAIServices\bin\Release\net10.0\linux-x64\AzureAIServices.deps.json
+C:\Users\PC\source\repos\AzureAIServices\AzureAIServices\bin\Release\net10.0\linux-x64\AzureAIServices.dll
+C:\Users\PC\source\repos\AzureAIServices\AzureAIServices\bin\Release\net10.0\linux-x64\AzureAIServices.pdb
+C:\Users\PC\source\repos\AzureAIServices\AzureAIServices\obj\Release\net10.0\linux-x64\AzureAIServices.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\AzureAIServices\AzureAIServices\obj\Release\net10.0\linux-x64\AzureAIServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\AzureAIServices\AzureAIServices\obj\Release\net10.0\linux-x64\AzureAIServices.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\AzureAIServices\AzureAIServices\obj\Release\net10.0\linux-x64\AzureAIServices.AssemblyInfo.cs
+C:\Users\PC\source\repos\AzureAIServices\AzureAIServices\obj\Release\net10.0\linux-x64\AzureAIServices.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\AzureAIServices\AzureAIServices\obj\Release\net10.0\linux-x64\AzureAIServices.dll
+C:\Users\PC\source\repos\AzureAIServices\AzureAIServices\obj\Release\net10.0\linux-x64\refint\AzureAIServices.dll
+C:\Users\PC\source\repos\AzureAIServices\AzureAIServices\obj\Release\net10.0\linux-x64\AzureAIServices.pdb
+C:\Users\PC\source\repos\AzureAIServices\AzureAIServices\obj\Release\net10.0\linux-x64\ref\AzureAIServices.dll
