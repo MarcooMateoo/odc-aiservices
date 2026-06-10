@@ -22,3 +22,4 @@ C:\Users\PC\source\repos\AzureAIServices\AzureAIServices\obj\Debug\net8.0\AzureA
 C:\Users\PC\source\repos\AzureAIServices\AzureAIServices\obj\Debug\net8.0\refint\AzureAIServices.dll
 C:\Users\PC\source\repos\AzureAIServices\AzureAIServices\obj\Debug\net8.0\AzureAIServices.pdb
 C:\Users\PC\source\repos\AzureAIServices\AzureAIServices\obj\Debug\net8.0\ref\AzureAIServices.dll
+C:\Users\PC\source\repos\AzureAIServices\AzureAIServices\obj\Debug\net8.0\AzureAIServices.sourcelink.json

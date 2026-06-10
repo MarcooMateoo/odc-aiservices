@@ -98,15 +98,23 @@ namespace AzureAIServices
             [OSParameter (Description = "Endpoint generated from Azure AI Foundry. ")]
             string Endpoint,
             [OSParameter (Description = "Document to be read and processed by Azure Document AI")]
-            byte[] File)
+            byte[] File,
+            [OSParameter (Description = "1 - Markdown, 2 - Plain Text")]
+            int ExtractionType = 2
+            )
         {
 
             var client = new DocumentIntelligenceClient(new Uri(Endpoint), new AzureKeyCredential(APIKey));
 
-            var options = new AnalyzeDocumentOptions("prebuilt-layout", BinaryData.FromBytes(File))
+            var options = new AnalyzeDocumentOptions("prebuilt-read", BinaryData.FromBytes(File));
+
+            if (ExtractionType == 1)
             {
-                OutputContentFormat = DocumentContentFormat.Markdown
-            };
+                options.OutputContentFormat = DocumentContentFormat.Markdown;
+            }
+            else { 
+                options.OutputContentFormat = DocumentContentFormat.Text;
+            }
 
             return AnalyzeDocumentAsync(client, options).GetAwaiter().GetResult(); ;
         }

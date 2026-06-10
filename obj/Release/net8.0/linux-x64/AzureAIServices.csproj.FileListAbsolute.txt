@@ -10,3 +10,4 @@ C:\Users\PC\source\repos\AzureAIServices\AzureAIServices\obj\Release\net8.0\linu
 C:\Users\PC\source\repos\AzureAIServices\AzureAIServices\obj\Release\net8.0\linux-x64\refint\AzureAIServices.dll
 C:\Users\PC\source\repos\AzureAIServices\AzureAIServices\obj\Release\net8.0\linux-x64\AzureAIServices.pdb
 C:\Users\PC\source\repos\AzureAIServices\AzureAIServices\obj\Release\net8.0\linux-x64\ref\AzureAIServices.dll
+C:\Users\PC\source\repos\AzureAIServices\AzureAIServices\obj\Release\net8.0\linux-x64\AzureAIServices.sourcelink.json

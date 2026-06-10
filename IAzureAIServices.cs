@@ -44,7 +44,9 @@ namespace AzureAIServices
             [OSParameter (Description = "Endpoint generated from Azure AI Foundry. ")]
             string Endpoint,
             [OSParameter (Description = "Document to be read and processed by Azure Document AI")]
-            byte[] File);
+            byte[] File,
+            [OSParameter (Description = "1 - Markdown, 2 - Plain Text")]
+            int ExtractionType = 2);
 
 
         [OSAction(Description = "Chats with AI Agents deployed in Azure AI Foundry", ReturnName = "Response", ReturnType = OSDataType.Text)]
